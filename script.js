@@ -6,7 +6,7 @@ function showReasons(){
 
 // surprise message
 function showMessage(){
-    alert("Don't worry in every emergency I am always there with you ❤️");
+    alert("Don't worry in every emergency, I am always there with you my Chintu Baby ❤️");
 }
 
 // yes button
