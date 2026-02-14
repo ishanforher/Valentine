@@ -48,3 +48,17 @@ for(let i=0;i<25;i++){
 }
 
 });
+    noBtn.style.left = Math.random()*200 - 100 + "px";
+    noBtn.style.top = Math.random()*200 - 100 + "px";
+});
+
+// floating hearts
+const heartsContainer = document.querySelector(".hearts");
+for(let i=0;i<25;i++){
+    const heart=document.createElement("span");
+    heart.style.left=Math.random()*100+"%";
+    heart.style.animationDuration=5+Math.random()*5+"s";
+    heartsContainer.appendChild(heart);
+}
+
+});
