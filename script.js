@@ -6,7 +6,7 @@ function showReasons(){
 
 // surprise message
 function showMessage(){
-    alert("You are my favorite notification ❤️");
+    alert("Don't worry in every emergency I am always there with you ❤️");
 }
 
 // yes button
